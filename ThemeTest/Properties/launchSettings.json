@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ThemeTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ThemeTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
